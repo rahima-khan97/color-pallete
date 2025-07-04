@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.box{
+    width: 800px;
+    height: 200px;
+    background-color: rgb(69, 79, 81);
+    position: relative;
+    margin-left: 300px;
+    margin-bottom: 10px;
+}
+.red{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10%;
+}
+.circle1{
+  background-color:rgb(242, 174, 174); 
+
+    z-index: 9;
+    left: 2%;
+}
+.circle2{
+        background-color:#f72e28;
+    right: 5%;
+    z-index: 2;
+}
+.circle3{
+        background-color:#f24944;
+
+    right: 15%;
+    z-index: 3;
+}
+.circle4{
+        background-color:#f2605c;
+    right: 25%;
+    z-index: 4;
+  
+}
+.circle5{
+  background-color:#f07673;
+    right: 35%;
+    z-index: 5;
+} 
+.circle6{
+    background-color:rgb(237, 107, 107);
+    right: 45%;
+    z-index: 6;
+} 
+.circle7{
+    background-color:rgb(245, 108, 108);
+    right: 55%;
+    z-index: 7;
+} 
+.circle8{
+    background-color:rgb(240, 149, 149);
+    right: 65%;
+    z-index: 8;
+}
+
+
+/* 
+.circle1 {
+     background-color:rgb(231, 235, 174); 
+     z-index: 9;
+    left: 2%;
+}
+.circle2 {
+    
+    background-color:#eded07;
+    right: 5%;
+    z-index: 2;
+}
+.circle3{
+
+    right: 15%;
+    z-index: 3;
+}
+.circle
+            background-color:#e3e330;
+
+    right: 25%;
+    z-index: 4;
+  
+}
+.circle5
+    background-color:#e3e34b;
+     right: 35%;
+    z-index: 5;
+} 
+.circle6{
+        background-color:#dbdb67;
+
+    right: 45%;
+    z-index: 6;
+} 
+.circle7{
+
+    background-color: #e6f05b;
+    right: 55%;
+    z-index: 7;
+} 
+.circle8{
+    background-color:rgb(243, 250, 150);
+    right: 65%;
+    z-index: 8;
+}
+
+.purple ,.circle1{
+     background-color:rgb(242, 174, 174); 
+
+    z-index: 9;
+    left: 2%;
+}
+.circle2{
+        background-color:#f72e28;
+    right: 5%;
+    z-index: 2;
+}
+.purple ,.circle3{
+        background-color:#f24944;
+
+    right: 15%;
+    z-index: 3;
+}
+.purple, .circle4{
+        background-color:#f2605c;
+    right: 25%;
+    z-index: 4;
+  
+}
+.purple ,.circle5{
+  background-color:#f07673;
+    right: 35%;
+    z-index: 5;
+} 
+.purple ,.circle6{
+    background-color:rgb(237, 107, 107);
+    right: 45%;
+    z-index: 6;
+} 
+.purple ,.circle7{
+    background-color:rgb(245, 108, 108);
+    right: 55%;
+    z-index: 7;
+} 
+.purple, .circle8{
+    background-color:rgb(240, 149, 149);
+    right: 65%;
+    z-index: 8;
+} */
